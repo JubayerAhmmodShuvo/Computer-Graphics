@@ -82,7 +82,7 @@ int main(int argc, char **argv)
     glutInitDisplayMode(GLUT_DOUBLE|GLUT_RGBA|GLUT_DEPTH);
     glutInitWindowSize(700,500);
     glutInitWindowPosition(0,0);
-    glutCreateWindow("Muhammad Mahfuz_181-15-11336_G_ MovingCar");
+    glutCreateWindow("Jubayer Ahmmod Shuvo_181-15-10807_G");
     initOpenGl();
     glutDisplayFunc(display);
     glutIdleFunc(display);
